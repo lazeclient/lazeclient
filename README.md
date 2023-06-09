@@ -1,16 +1,52 @@
-### Hi there 👋
+INDIRMEK ICIN DISCORDA GELINIZ!
 
-<!--
-**lazeclient/lazeclient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Laze 3.1](https://github.com/lazeclient) | 9.06.2022 | Yeni [Discord](https://discord.gg/laze)
+## Özellikler
 
-Here are some ideas to get you started:
+💠 Laze IRC [Laze kullanıcıları ile sohbet edebileceğiniz sohbet sunucusu] 💠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔰 Box ESP [Düşmanları kutu içinde gösterir]
+
+🔰 Tracers [Oyuncuları karşı çıkan bir çizgi]
+
+🔰 Chams [Oyuncuları duvar arkasında olsa bile değilmiş gibi gösterir]
+
+🔰 Chest ESP [Sandıkları kutu içinde gösterir]
+
+🔰 Nametags [Oyuncu isimlerini büyültür]
+
+🔰 Left Clicker [1-75 CPS]
+
+🔰 Right Clicker [1-75 CPS]
+
+🔰 Arraylist [Hilelerin listesini gösteren küçük menü]
+
+🔰 Ignore Chat [Tuşların sohbet açıkken çalışmasını önler]
+
+🔰 Toggle Sounds [Hilelerin açılma ve kapanma seslerini bildirir]
+
+🔰 Auto Rod [Belirlediğiniz tuşa ve belirlediğiniz moda bağlı olarak otomatik olta kullanır]
+
+🔰 (Ban Riskli) Airjump [Oyun hafızasını (memory) değiştirerek havada zıplayabilmenizi sağlar]
+
+🔰 CPS Disabler [CPS limitini devre dışı bırakır]
+
+🔰 Config Manager [Laze için ayar dosyaları oluşturmanıza ve daha sonra onları yüklemenize olanak sağlar]
+
+🔰 Aim Assist [Düşmanlarınıza otomatik aim alır]
+
+⚠️ Visual C++ [x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) veya [x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) bilgisayarınızda kuruk olması gerekir ⚠️
+## Kurulum
+
+
+💠 Laze'i [indirin](https://discord.gg/laze) ve çalıştırın.
+
+💠 Çalıştırdıktan sonra belirtilen lisans kodunuzu kopyalayın ve [Discord]( https://discord.gg/laze ) sunucumuza gelip doğrulayın.
+
+⚠ Bir hata durumunda Discord aaleaf#0148 üzerinden benim ile iletişime geçebilirsiniz. ⚠
+
+## Ekran Görüntüleri
+
+![image](https://user-images.githubusercontent.com/45121448/168669078-81654a9a-ea20-44d1-bb63-1088bcd975c9.png)
+
+![image](https://user-images.githubusercontent.com/45121448/168669084-be9f6453-a6ac-417f-969c-b3986d6ae9f9.png)
